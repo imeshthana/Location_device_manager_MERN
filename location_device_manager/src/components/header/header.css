@@ -1,0 +1,10 @@
+header {
+    /* background-color: #2bd8aa; */
+    background-color: rgb(2, 68, 83);
+    color: rgb(90, 194, 188);
+    padding: 2.5px;
+}
+
+header h1{
+    margin-left: 2rem;
+}
